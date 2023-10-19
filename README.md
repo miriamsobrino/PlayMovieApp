@@ -1,5 +1,6 @@
 
-![logo icon PlayMovie](https://github.com/miriamsobrino/PlayMovieApp/assets/142743697/78f206ba-728d-4a07-9268-135c82c6934d)
+
+<img src="https://github.com/miriamsobrino/PlayMovieApp/assets/142743697/d654793d-76de-44da-aa3a-627a08e9793b" width="150"  />
 
 # PlayMovieApp
 Mobile app developed in android with Kotlin using the TMDb API
