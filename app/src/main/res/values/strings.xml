@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PlayMovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies_menu">Movies</string>
+    <string name="search_menu">Search</string>
+    <string name="favorites_menu">Favorites</string>
+    <string name="proximos_estrenos">Próximos estrenos</string>
+    <string name="tendencias">En tendencias</string>
+    <string name="recomendadas">Recomendadas para ti</string>
+    <string name="cine_español">Cine español</string>
+    <string name="cine_internacional">Cine internacional</string>
+    <string name="favoritas">Mis favoritas</string>
+    <string name="buscar_pelicula">Busca una película...</string>
+</resources>
